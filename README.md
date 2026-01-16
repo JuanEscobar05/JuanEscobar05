@@ -1,4 +1,8 @@
-## 👨‍💻 Juan Escobar - Estudiante de Desarrollo de Software Full Stack
-![Banner(https://camo.githubusercontent.com/a34ad8ac2b25f28866785e02c0cb5d0b4c124120872561a36bbd8cd3d1735e27/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3362383266362c3130303a316533613861266865696768743d3230302673656374696f6e3d68656164657226746578743d4269656e76656e69646f253230612532306d692532304769744875622126666f6e7453697a653d343026666f6e74436f6c6f723d666666666666)
+# 👨‍💻 Juan Escobar - Estudiante de Desarrollo de Software Full Stack
+---
 
+<p align="center><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:34D399&height=220&section=header&text=¡Bienvenidos%20al%20GitHub!%20de%20Juan%20Escobar&fontsize=45&fontColor=ffffff" />
+</p>
+
+<h3 align="center>Desarrollador Full Stack</h3>
 
