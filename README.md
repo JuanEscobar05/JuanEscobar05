@@ -14,7 +14,7 @@
 ---
 
 ### 🧑🏻 Sobre mí
-Soy **Juan Escobar** estudiante de **Desarrollo de Software** con enfoque en la creación de aplicaciones web. Trabajo principalmente con **HTML, CSS, JavaScript, Node.js, React, Java, Sprint Boot**, y desarrollo proyectos personales para poner en práctica lo aprendido.
+Soy **Juan Escobar** estudiante de **Desarrollo de Software** con enfoque en la creación de aplicaciones web. Trabajo principalmente con **HTML, CSS, JavaScript, Node.js, React, Java, Spring Boot**, y desarrollo proyectos personales para poner en práctica lo aprendido.
 
 Busco una oportunidad para seguir aprendiendo, aportar mis conocimientos y crecer dentro de un equipo de desarrollo.
 
