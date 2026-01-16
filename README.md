@@ -41,7 +41,7 @@ Busco una oportunidad para seguir aprendiendo, aportar mis conocimientos y crece
 
 ### 🤝 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/juanescobardavid)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanescobardavid/)
 [![Correo](https://img.shields.io/badge/-Correo-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:juanescobardavid2511@gmail.com)
 
 ---
