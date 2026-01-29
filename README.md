@@ -37,6 +37,7 @@ Busco una oportunidad para seguir aprendiendo, aportar mis conocimientos y crece
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-6DB33F?style=flat&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-6DB33F?style=flat&logo=sql&logoColor=fff)
 
 
 ---
