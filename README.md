@@ -36,6 +36,8 @@ Busco una oportunidad para seguir aprendiendo, aportar mis conocimientos y crece
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-6DB33F?style=flat&logo=python&logoColor=fff)
+
 
 ---
 
@@ -43,6 +45,12 @@ Busco una oportunidad para seguir aprendiendo, aportar mis conocimientos y crece
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanescobardavid/)
 [![Correo](https://img.shields.io/badge/-Correo-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:juanescobardavid2511@gmail.com)
+
+---
+
+### 📄 Hoja de Vida
+
+👉🏻 [Descargar mi cv (PDF)](./HDV-Juan Escobar)
 
 ---
 
