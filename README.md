@@ -50,7 +50,7 @@ Busco una oportunidad para seguir aprendiendo, aportar mis conocimientos y crece
 
 ### 📄 Hoja de Vida
 
-👉🏻 [Descargar mi cv (PDF)](./HDV-Juan Escobar)
+👉🏻 [Descargar mi cv (PDF)](./HDV-Juan Escobar.pdf)
 
 ---
 
